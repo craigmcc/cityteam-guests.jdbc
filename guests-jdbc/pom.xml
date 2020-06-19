@@ -40,6 +40,12 @@
     <!-- Dependencies -->
     <dependencies>
 
+        <!-- Bean Validation APIs -->
+        <dependency>
+            <groupId>javax.validation</groupId>
+            <artifactId>validation-api</artifactId>
+        </dependency>
+
         <!-- Guests: Model Module -->
         <dependency>
             <groupId>org.cityteam.guests</groupId>
